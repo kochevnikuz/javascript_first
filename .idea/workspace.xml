@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1424ac7-e7c8-406b-b6f3-fcdafc5de70e" name="Changes" comment="" />
+    <list default="true" id="d1424ac7-e7c8-406b-b6f3-fcdafc5de70e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/all.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +40,7 @@
     "last_opened_file_path": "C:/Program Files/nodejs/node.exe",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683091002180</updated>
-      <workItem from="1683091003335" duration="4721000" />
+      <workItem from="1683091003335" duration="6652000" />
     </task>
     <servers />
   </component>
