@@ -9,12 +9,22 @@ const personMovieDB = {
 };
 
 let a, c;
-for(let i = 0; i < personMovieDB.count; i++){
+for(let i = 0; i < 2; i++){
     a = prompt("Один из просмотринных фильм", "");
     c = prompt("На скоько оцените его?", "");
-    personMovieDB.movies[a] = c;
+    if (a != null && c != null && a != '' && a.length < 50)
+        personMovieDB.movies[a] = c;
+    else --i;
 }
-console.log(personMovieDB)
+
+if (numberOfFilms < 10)
+    alert("Мало");
+else if (numberOfFilms >= 10 && numberOfFilms < 30)
+    alert("классик");
+else if (numberOfFilms => 30)
+    alert("Отлично");
+else alert('Ошибка')
+
 
 // const a = prompt("Один из просмотринных фильм", "");
 // const b = prompt("На скоько оцените его?", "");
