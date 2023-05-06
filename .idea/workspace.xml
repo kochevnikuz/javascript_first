@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1424ac7-e7c8-406b-b6f3-fcdafc5de70e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+    <list default="true" id="d1424ac7-e7c8-406b-b6f3-fcdafc5de70e" name="Changes" comment="test add file">
+      <change afterPath="$PROJECT_DIR$/test_1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/all.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +74,17 @@
       <updated>1683091002180</updated>
       <workItem from="1683091003335" duration="10084000" />
       <workItem from="1683185298570" duration="3160000" />
-      <workItem from="1683262972730" duration="836000" />
+      <workItem from="1683262972730" duration="4938000" />
+      <workItem from="1683348897401" duration="13229000" />
     </task>
+    <task id="LOCAL-00001" summary="test add file">
+      <created>1683271937307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683271937307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="test add file" />
   </component>
 </project>
